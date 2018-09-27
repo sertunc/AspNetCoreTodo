@@ -1,0 +1,2 @@
+# AspNetCoreTodo
+AspNetCoreTodo uygulamasıdır
